@@ -71,7 +71,7 @@ const LoginPage = () => {
                                     className="img-fluid"
                                     width="30%"
                                     height="30%"
-                                />{" "}
+                                />
                             </div>
                             <div className="login-page">
                                 <h1 className="text-center">
