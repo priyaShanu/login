@@ -1,0 +1,8 @@
+{
+    "login": "Login",
+    "emailAddr" : "Email Address",
+    "emailErr" : "Please enter a valid email address.",
+    "password" : "Password",
+    "fPassword" : "Forgot Password ?"
+}
+  

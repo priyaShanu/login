@@ -1,0 +1,13 @@
+.dashboard {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .dashboard img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
